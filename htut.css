@@ -1,0 +1,12 @@
+body li{
+	float: left;
+}
+body{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+a:hover{
+text-decoration: overline;
+background-color: blueviolet;
+}
